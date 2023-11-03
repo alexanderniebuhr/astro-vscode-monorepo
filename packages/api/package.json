@@ -1,0 +1,8 @@
+{
+  "name": "@alexanderniebuhr/blog-trcp",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@alexanderniebuhr/blog-db": "workspace:*"
+  }
+}

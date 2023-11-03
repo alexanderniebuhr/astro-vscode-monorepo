@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json.schemastore.org/tsconfig",
+  "extends": "../../tsconfig.options.json",
+  "compilerOptions": {
+    "module": "ESNext",
+    "target": "ESNext",
+    "outDir": "../../.moon/cache/types/packages/db"
+  },
+  "include": [
+    "src/**/*",
+    "*.ts"
+  ],
+  "references": []
+}

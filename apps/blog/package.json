@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@alexanderniebuhr/blog-db": "workspace:*",
+    "astro": "2.8.4"
+  },
+  "devDependencies": {
+  },
+  "name": "@alexanderniebuhr/blog-app",
+  "private": true,
+  "type": "module"
+}
